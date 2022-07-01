@@ -1,0 +1,1477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="system">
+  <data key="d0">56</data>
+</node>
+<node id="method">
+  <data key="d0">70</data>
+</node>
+<node id="device">
+  <data key="d0">49</data>
+</node>
+<node id="systems">
+  <data key="d0">11</data>
+</node>
+<node id="methods">
+  <data key="d0">16</data>
+</node>
+<node id="user">
+  <data key="d0">26</data>
+</node>
+<node id="information">
+  <data key="d0">39</data>
+</node>
+<node id="network">
+  <data key="d0">33</data>
+</node>
+<node id="Systems">
+  <data key="d0">1</data>
+</node>
+<node id="request">
+  <data key="d0">32</data>
+</node>
+<node id="transaction">
+  <data key="d0">28</data>
+</node>
+<node id="plurality">
+  <data key="d0">23</data>
+</node>
+<node id="computer">
+  <data key="d0">15</data>
+</node>
+<node id="response">
+  <data key="d0">19</data>
+</node>
+<node id="node">
+  <data key="d0">17</data>
+</node>
+<node id="nodes">
+  <data key="d0">10</data>
+</node>
+<node id="storage">
+  <data key="d0">17</data>
+</node>
+<node id="computing">
+  <data key="d0">4</data>
+</node>
+<node id="example">
+  <data key="d0">12</data>
+</node>
+<node id="apparatus">
+  <data key="d0">10</data>
+</node>
+<node id="operation">
+  <data key="d0">11</data>
+</node>
+<node id="programs">
+  <data key="d0">8</data>
+</node>
+<node id="communication">
+  <data key="d0">5</data>
+</node>
+<node id="media">
+  <data key="d0">8</data>
+</node>
+<node id="Methods">
+  <data key="d0">6</data>
+</node>
+<node id="herein">
+  <data key="d0">7</data>
+</node>
+<node id="client">
+  <data key="d0">7</data>
+</node>
+<node id="server">
+  <data key="d0">11</data>
+</node>
+<node id="devices">
+  <data key="d0">8</data>
+</node>
+<node id="key">
+  <data key="d0">14</data>
+</node>
+<node id="receiving">
+  <data key="d0">4</data>
+</node>
+<node id="management">
+  <data key="d0">2</data>
+</node>
+<node id="block">
+  <data key="d0">16</data>
+</node>
+<node id="ledger">
+  <data key="d0">12</data>
+</node>
+<node id="access">
+  <data key="d0">10</data>
+</node>
+<node id="value">
+  <data key="d0">12</data>
+</node>
+<node id="service">
+  <data key="d0">10</data>
+</node>
+<node id="chain">
+  <data key="d0">2</data>
+</node>
+<node id="program">
+  <data key="d0">4</data>
+</node>
+<node id="application">
+  <data key="d0">7</data>
+</node>
+<node id="processing">
+  <data key="d0">7</data>
+</node>
+<node id="hash">
+  <data key="d0">5</data>
+</node>
+<node id="identity">
+  <data key="d0">8</data>
+</node>
+<node id="identifier">
+  <data key="d0">7</data>
+</node>
+<node id="transactions">
+  <data key="d0">5</data>
+</node>
+<node id="processor">
+  <data key="d0">5</data>
+</node>
+<node id="blocks">
+  <data key="d0">2</data>
+</node>
+<node id="control">
+  <data key="d0">2</data>
+</node>
+<node id="authentication">
+  <data key="d0">8</data>
+</node>
+<node id="product">
+  <data key="d0">4</data>
+</node>
+<node id="database">
+  <data key="d0">4</data>
+</node>
+<node id="embodiments">
+  <data key="d0">3</data>
+</node>
+<node id="set">
+  <data key="d0">3</data>
+</node>
+<node id="message">
+  <data key="d0">5</data>
+</node>
+<node id="target">
+  <data key="d0">5</data>
+</node>
+<node id="memory">
+  <data key="d0">3</data>
+</node>
+<node id="account">
+  <data key="d0">6</data>
+</node>
+<node id="contract">
+  <data key="d0">4</data>
+</node>
+<node id="provider">
+  <data key="d0">1</data>
+</node>
+<node id="signature">
+  <data key="d0">2</data>
+</node>
+<node id="identification">
+  <data key="d0">4</data>
+</node>
+<node id="interface">
+  <data key="d0">4</data>
+</node>
+<node id="verification">
+  <data key="d0">7</data>
+</node>
+<node id="time">
+  <data key="d0">3</data>
+</node>
+<node id="number">
+  <data key="d0">1</data>
+</node>
+<node id="invention">
+  <data key="d0">2</data>
+</node>
+<node id="IoT">
+  <data key="d0">1</data>
+</node>
+<node id="payment">
+  <data key="d0">3</data>
+</node>
+<node id="encryption">
+  <data key="d0">1</data>
+</node>
+<node id="consensus">
+  <data key="d0">4</data>
+</node>
+<node id="location">
+  <data key="d0">4</data>
+</node>
+<node id="embodiment">
+  <data key="d0">1</data>
+</node>
+<node id="content">
+  <data key="d0">2</data>
+</node>
+<node id="medium">
+  <data key="d0">2</data>
+</node>
+<node id="record">
+  <data key="d0">3</data>
+</node>
+<node id="result">
+  <data key="d0">1</data>
+</node>
+<node id="code">
+  <data key="d0">1</data>
+</node>
+<node id="amount">
+  <data key="d0">2</data>
+</node>
+<node id="entity">
+  <data key="d0">4</data>
+</node>
+<node id="secure">
+  <data key="d0">2</data>
+</node>
+<node id="state">
+  <data key="d0">1</data>
+</node>
+<node id="input">
+  <data key="d0">2</data>
+</node>
+<node id="instructions">
+  <data key="d0">2</data>
+</node>
+<node id="comprises">
+  <data key="d0">1</data>
+</node>
+<node id="event">
+  <data key="d0">1</data>
+</node>
+<node id="security">
+  <data key="d0">1</data>
+</node>
+<node id="users">
+  <data key="d0">1</data>
+</node>
+<node id="specification">
+  <data key="d0">1</data>
+</node>
+<node id="disclosure">
+  <data key="d0">1</data>
+</node>
+<edge source="system" target="method">
+  <data key="d1">1074.0</data>
+</edge>
+<edge source="system" target="device">
+  <data key="d1">595.0</data>
+</edge>
+<edge source="system" target="information">
+  <data key="d1">446.0</data>
+</edge>
+<edge source="system" target="network">
+  <data key="d1">440.0</data>
+</edge>
+<edge source="system" target="user">
+  <data key="d1">433.0</data>
+</edge>
+<edge source="system" target="computer">
+  <data key="d1">422.0</data>
+</edge>
+<edge source="system" target="plurality">
+  <data key="d1">421.0</data>
+</edge>
+<edge source="system" target="transaction">
+  <data key="d1">405.0</data>
+</edge>
+<edge source="system" target="storage">
+  <data key="d1">365.0</data>
+</edge>
+<edge source="system" target="request">
+  <data key="d1">352.0</data>
+</edge>
+<edge source="system" target="response">
+  <data key="d1">264.0</data>
+</edge>
+<edge source="system" target="management">
+  <data key="d1">262.0</data>
+</edge>
+<edge source="system" target="ledger">
+  <data key="d1">258.0</data>
+</edge>
+<edge source="system" target="access">
+  <data key="d1">254.0</data>
+</edge>
+<edge source="system" target="devices">
+  <data key="d1">216.0</data>
+</edge>
+<edge source="system" target="processing">
+  <data key="d1">209.0</data>
+</edge>
+<edge source="system" target="computing">
+  <data key="d1">195.0</data>
+</edge>
+<edge source="system" target="block">
+  <data key="d1">184.0</data>
+</edge>
+<edge source="system" target="server">
+  <data key="d1">181.0</data>
+</edge>
+<edge source="system" target="control">
+  <data key="d1">180.0</data>
+</edge>
+<edge source="system" target="node">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="system" target="communication">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="system" target="example">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="system" target="database">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="system" target="embodiments">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="system" target="processor">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="system" target="program">
+  <data key="d1">168.0</data>
+</edge>
+<edge source="system" target="systems">
+  <data key="d1">162.0</data>
+</edge>
+<edge source="system" target="memory">
+  <data key="d1">160.0</data>
+</edge>
+<edge source="system" target="application">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="system" target="methods">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="system" target="service">
+  <data key="d1">152.0</data>
+</edge>
+<edge source="system" target="nodes">
+  <data key="d1">151.0</data>
+</edge>
+<edge source="system" target="authentication">
+  <data key="d1">151.0</data>
+</edge>
+<edge source="system" target="key">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="system" target="set">
+  <data key="d1">137.0</data>
+</edge>
+<edge source="system" target="interface">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="system" target="client">
+  <data key="d1">134.0</data>
+</edge>
+<edge source="system" target="product">
+  <data key="d1">131.0</data>
+</edge>
+<edge source="system" target="operation">
+  <data key="d1">131.0</data>
+</edge>
+<edge source="system" target="transactions">
+  <data key="d1">130.0</data>
+</edge>
+<edge source="system" target="value">
+  <data key="d1">126.0</data>
+</edge>
+<edge source="system" target="record">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="system" target="time">
+  <data key="d1">122.0</data>
+</edge>
+<edge source="system" target="medium">
+  <data key="d1">121.0</data>
+</edge>
+<edge source="system" target="verification">
+  <data key="d1">118.0</data>
+</edge>
+<edge source="system" target="invention">
+  <data key="d1">118.0</data>
+</edge>
+<edge source="system" target="entity">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="system" target="secure">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="system" target="instructions">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="system" target="security">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="system" target="identifier">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="system" target="location">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="system" target="identity">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="system" target="message">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="system" target="users">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="method" target="device">
+  <data key="d1">792.0</data>
+</edge>
+<edge source="method" target="information">
+  <data key="d1">566.0</data>
+</edge>
+<edge source="method" target="user">
+  <data key="d1">531.0</data>
+</edge>
+<edge source="method" target="network">
+  <data key="d1">527.0</data>
+</edge>
+<edge source="method" target="request">
+  <data key="d1">511.0</data>
+</edge>
+<edge source="method" target="transaction">
+  <data key="d1">485.0</data>
+</edge>
+<edge source="method" target="plurality">
+  <data key="d1">474.0</data>
+</edge>
+<edge source="method" target="response">
+  <data key="d1">344.0</data>
+</edge>
+<edge source="method" target="example">
+  <data key="d1">341.0</data>
+</edge>
+<edge source="method" target="computer">
+  <data key="d1">340.0</data>
+</edge>
+<edge source="method" target="node">
+  <data key="d1">329.0</data>
+</edge>
+<edge source="method" target="key">
+  <data key="d1">271.0</data>
+</edge>
+<edge source="method" target="receiving">
+  <data key="d1">267.0</data>
+</edge>
+<edge source="method" target="server">
+  <data key="d1">264.0</data>
+</edge>
+<edge source="method" target="block">
+  <data key="d1">259.0</data>
+</edge>
+<edge source="method" target="value">
+  <data key="d1">251.0</data>
+</edge>
+<edge source="method" target="storage">
+  <data key="d1">249.0</data>
+</edge>
+<edge source="method" target="service">
+  <data key="d1">232.0</data>
+</edge>
+<edge source="method" target="application">
+  <data key="d1">225.0</data>
+</edge>
+<edge source="method" target="nodes">
+  <data key="d1">210.0</data>
+</edge>
+<edge source="method" target="access">
+  <data key="d1">207.0</data>
+</edge>
+<edge source="method" target="identifier">
+  <data key="d1">195.0</data>
+</edge>
+<edge source="method" target="ledger">
+  <data key="d1">191.0</data>
+</edge>
+<edge source="method" target="apparatus">
+  <data key="d1">183.0</data>
+</edge>
+<edge source="method" target="computing">
+  <data key="d1">183.0</data>
+</edge>
+<edge source="method" target="product">
+  <data key="d1">176.0</data>
+</edge>
+<edge source="method" target="processing">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="method" target="authentication">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="method" target="identity">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="method" target="set">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="method" target="database">
+  <data key="d1">168.0</data>
+</edge>
+<edge source="method" target="devices">
+  <data key="d1">165.0</data>
+</edge>
+<edge source="method" target="message">
+  <data key="d1">163.0</data>
+</edge>
+<edge source="method" target="target">
+  <data key="d1">162.0</data>
+</edge>
+<edge source="method" target="contract">
+  <data key="d1">161.0</data>
+</edge>
+<edge source="method" target="hash">
+  <data key="d1">159.0</data>
+</edge>
+<edge source="method" target="communication">
+  <data key="d1">157.0</data>
+</edge>
+<edge source="method" target="client">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="method" target="program">
+  <data key="d1">152.0</data>
+</edge>
+<edge source="method" target="identification">
+  <data key="d1">149.0</data>
+</edge>
+<edge source="method" target="operation">
+  <data key="d1">148.0</data>
+</edge>
+<edge source="method" target="verification">
+  <data key="d1">138.0</data>
+</edge>
+<edge source="method" target="time">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="method" target="number">
+  <data key="d1">135.0</data>
+</edge>
+<edge source="method" target="account">
+  <data key="d1">134.0</data>
+</edge>
+<edge source="method" target="invention">
+  <data key="d1">130.0</data>
+</edge>
+<edge source="method" target="transactions">
+  <data key="d1">129.0</data>
+</edge>
+<edge source="method" target="payment">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="method" target="management">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="method" target="embodiment">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="method" target="medium">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="method" target="result">
+  <data key="d1">122.0</data>
+</edge>
+<edge source="method" target="embodiments">
+  <data key="d1">119.0</data>
+</edge>
+<edge source="method" target="code">
+  <data key="d1">118.0</data>
+</edge>
+<edge source="method" target="signature">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="method" target="record">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="method" target="location">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="method" target="amount">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="method" target="consensus">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="method" target="content">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="method" target="state">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="method" target="comprises">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="method" target="event">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="method" target="input">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="method" target="secure">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="method" target="entity">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="method" target="specification">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="method" target="interface">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="method" target="disclosure">
+  <data key="d1">100.0</data>
+</edge>
+<edge source="device" target="user">
+  <data key="d1">596.0</data>
+</edge>
+<edge source="device" target="information">
+  <data key="d1">525.0</data>
+</edge>
+<edge source="device" target="network">
+  <data key="d1">488.0</data>
+</edge>
+<edge source="device" target="request">
+  <data key="d1">416.0</data>
+</edge>
+<edge source="device" target="computing">
+  <data key="d1">352.0</data>
+</edge>
+<edge source="device" target="plurality">
+  <data key="d1">323.0</data>
+</edge>
+<edge source="device" target="communication">
+  <data key="d1">310.0</data>
+</edge>
+<edge source="device" target="response">
+  <data key="d1">298.0</data>
+</edge>
+<edge source="device" target="client">
+  <data key="d1">287.0</data>
+</edge>
+<edge source="device" target="server">
+  <data key="d1">280.0</data>
+</edge>
+<edge source="device" target="devices">
+  <data key="d1">276.0</data>
+</edge>
+<edge source="device" target="transaction">
+  <data key="d1">266.0</data>
+</edge>
+<edge source="device" target="access">
+  <data key="d1">252.0</data>
+</edge>
+<edge source="device" target="storage">
+  <data key="d1">247.0</data>
+</edge>
+<edge source="device" target="service">
+  <data key="d1">242.0</data>
+</edge>
+<edge source="device" target="key">
+  <data key="d1">237.0</data>
+</edge>
+<edge source="device" target="application">
+  <data key="d1">219.0</data>
+</edge>
+<edge source="device" target="processing">
+  <data key="d1">218.0</data>
+</edge>
+<edge source="device" target="identifier">
+  <data key="d1">210.0</data>
+</edge>
+<edge source="device" target="example">
+  <data key="d1">192.0</data>
+</edge>
+<edge source="device" target="processor">
+  <data key="d1">190.0</data>
+</edge>
+<edge source="device" target="authentication">
+  <data key="d1">178.0</data>
+</edge>
+<edge source="device" target="identity">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="device" target="memory">
+  <data key="d1">160.0</data>
+</edge>
+<edge source="device" target="ledger">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="device" target="set">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="device" target="computer">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="device" target="message">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="device" target="node">
+  <data key="d1">142.0</data>
+</edge>
+<edge source="device" target="value">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="device" target="receiving">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="device" target="IoT">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="device" target="target">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="device" target="location">
+  <data key="d1">126.0</data>
+</edge>
+<edge source="device" target="content">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="device" target="interface">
+  <data key="d1">118.0</data>
+</edge>
+<edge source="device" target="payment">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="device" target="database">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="device" target="apparatus">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="device" target="account">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="device" target="verification">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="device" target="control">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="device" target="operation">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="device" target="block">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="device" target="identification">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="device" target="instructions">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="device" target="methods">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="systems" target="methods">
+  <data key="d1">740.0</data>
+</edge>
+<edge source="systems" target="computer">
+  <data key="d1">395.0</data>
+</edge>
+<edge source="systems" target="storage">
+  <data key="d1">372.0</data>
+</edge>
+<edge source="systems" target="apparatus">
+  <data key="d1">338.0</data>
+</edge>
+<edge source="systems" target="media">
+  <data key="d1">306.0</data>
+</edge>
+<edge source="systems" target="Methods">
+  <data key="d1">302.0</data>
+</edge>
+<edge source="systems" target="programs">
+  <data key="d1">290.0</data>
+</edge>
+<edge source="systems" target="herein">
+  <data key="d1">244.0</data>
+</edge>
+<edge source="systems" target="devices">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="systems" target="embodiments">
+  <data key="d1">126.0</data>
+</edge>
+<edge source="methods" target="Systems">
+  <data key="d1">516.0</data>
+</edge>
+<edge source="methods" target="herein">
+  <data key="d1">289.0</data>
+</edge>
+<edge source="methods" target="computer">
+  <data key="d1">253.0</data>
+</edge>
+<edge source="methods" target="media">
+  <data key="d1">226.0</data>
+</edge>
+<edge source="methods" target="storage">
+  <data key="d1">214.0</data>
+</edge>
+<edge source="methods" target="apparatus">
+  <data key="d1">212.0</data>
+</edge>
+<edge source="methods" target="information">
+  <data key="d1">178.0</data>
+</edge>
+<edge source="methods" target="devices">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="methods" target="programs">
+  <data key="d1">167.0</data>
+</edge>
+<edge source="methods" target="network">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="methods" target="request">
+  <data key="d1">129.0</data>
+</edge>
+<edge source="methods" target="transaction">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="methods" target="plurality">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="user" target="information">
+  <data key="d1">481.0</data>
+</edge>
+<edge source="user" target="request">
+  <data key="d1">393.0</data>
+</edge>
+<edge source="user" target="response">
+  <data key="d1">223.0</data>
+</edge>
+<edge source="user" target="access">
+  <data key="d1">222.0</data>
+</edge>
+<edge source="user" target="identity">
+  <data key="d1">210.0</data>
+</edge>
+<edge source="user" target="network">
+  <data key="d1">203.0</data>
+</edge>
+<edge source="user" target="server">
+  <data key="d1">202.0</data>
+</edge>
+<edge source="user" target="key">
+  <data key="d1">197.0</data>
+</edge>
+<edge source="user" target="transaction">
+  <data key="d1">187.0</data>
+</edge>
+<edge source="user" target="service">
+  <data key="d1">183.0</data>
+</edge>
+<edge source="user" target="authentication">
+  <data key="d1">165.0</data>
+</edge>
+<edge source="user" target="plurality">
+  <data key="d1">162.0</data>
+</edge>
+<edge source="user" target="account">
+  <data key="d1">161.0</data>
+</edge>
+<edge source="user" target="application">
+  <data key="d1">159.0</data>
+</edge>
+<edge source="user" target="identifier">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="user" target="interface">
+  <data key="d1">147.0</data>
+</edge>
+<edge source="user" target="example">
+  <data key="d1">143.0</data>
+</edge>
+<edge source="user" target="verification">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="user" target="input">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="user" target="value">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="user" target="receiving">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="user" target="identification">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="user" target="target">
+  <data key="d1">100.0</data>
+</edge>
+<edge source="information" target="request">
+  <data key="d1">340.0</data>
+</edge>
+<edge source="information" target="transaction">
+  <data key="d1">294.0</data>
+</edge>
+<edge source="information" target="network">
+  <data key="d1">277.0</data>
+</edge>
+<edge source="information" target="plurality">
+  <data key="d1">226.0</data>
+</edge>
+<edge source="information" target="server">
+  <data key="d1">222.0</data>
+</edge>
+<edge source="information" target="response">
+  <data key="d1">221.0</data>
+</edge>
+<edge source="information" target="access">
+  <data key="d1">181.0</data>
+</edge>
+<edge source="information" target="service">
+  <data key="d1">178.0</data>
+</edge>
+<edge source="information" target="key">
+  <data key="d1">166.0</data>
+</edge>
+<edge source="information" target="block">
+  <data key="d1">164.0</data>
+</edge>
+<edge source="information" target="ledger">
+  <data key="d1">163.0</data>
+</edge>
+<edge source="information" target="authentication">
+  <data key="d1">161.0</data>
+</edge>
+<edge source="information" target="identity">
+  <data key="d1">161.0</data>
+</edge>
+<edge source="information" target="node">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="information" target="identifier">
+  <data key="d1">150.0</data>
+</edge>
+<edge source="information" target="example">
+  <data key="d1">138.0</data>
+</edge>
+<edge source="information" target="client">
+  <data key="d1">138.0</data>
+</edge>
+<edge source="information" target="identification">
+  <data key="d1">135.0</data>
+</edge>
+<edge source="information" target="storage">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="information" target="verification">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="information" target="devices">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="information" target="communication">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="information" target="application">
+  <data key="d1">121.0</data>
+</edge>
+<edge source="information" target="account">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="information" target="operation">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="information" target="entity">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="information" target="processing">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="information" target="database">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="information" target="record">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="information" target="processor">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="information" target="location">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="information" target="value">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="information" target="target">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="information" target="time">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="network" target="node">
+  <data key="d1">390.0</data>
+</edge>
+<edge source="network" target="nodes">
+  <data key="d1">356.0</data>
+</edge>
+<edge source="network" target="plurality">
+  <data key="d1">350.0</data>
+</edge>
+<edge source="network" target="request">
+  <data key="d1">313.0</data>
+</edge>
+<edge source="network" target="transaction">
+  <data key="d1">269.0</data>
+</edge>
+<edge source="network" target="block">
+  <data key="d1">209.0</data>
+</edge>
+<edge source="network" target="devices">
+  <data key="d1">196.0</data>
+</edge>
+<edge source="network" target="response">
+  <data key="d1">194.0</data>
+</edge>
+<edge source="network" target="access">
+  <data key="d1">189.0</data>
+</edge>
+<edge source="network" target="ledger">
+  <data key="d1">188.0</data>
+</edge>
+<edge source="network" target="communication">
+  <data key="d1">166.0</data>
+</edge>
+<edge source="network" target="example">
+  <data key="d1">159.0</data>
+</edge>
+<edge source="network" target="service">
+  <data key="d1">150.0</data>
+</edge>
+<edge source="network" target="computer">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="network" target="server">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="network" target="transactions">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="network" target="storage">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="network" target="consensus">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="network" target="operation">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="network" target="application">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="network" target="client">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="network" target="key">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="network" target="contract">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="network" target="computing">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="network" target="processing">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="network" target="chain">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="network" target="processor">
+  <data key="d1">100.0</data>
+</edge>
+<edge source="request" target="response">
+  <data key="d1">402.0</data>
+</edge>
+<edge source="request" target="transaction">
+  <data key="d1">288.0</data>
+</edge>
+<edge source="request" target="node">
+  <data key="d1">249.0</data>
+</edge>
+<edge source="request" target="access">
+  <data key="d1">242.0</data>
+</edge>
+<edge source="request" target="service">
+  <data key="d1">237.0</data>
+</edge>
+<edge source="request" target="plurality">
+  <data key="d1">214.0</data>
+</edge>
+<edge source="request" target="server">
+  <data key="d1">190.0</data>
+</edge>
+<edge source="request" target="client">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="request" target="example">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="request" target="key">
+  <data key="d1">159.0</data>
+</edge>
+<edge source="request" target="authentication">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="request" target="receiving">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="request" target="identifier">
+  <data key="d1">142.0</data>
+</edge>
+<edge source="request" target="nodes">
+  <data key="d1">134.0</data>
+</edge>
+<edge source="request" target="identity">
+  <data key="d1">134.0</data>
+</edge>
+<edge source="request" target="account">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="request" target="verification">
+  <data key="d1">130.0</data>
+</edge>
+<edge source="request" target="block">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="request" target="storage">
+  <data key="d1">121.0</data>
+</edge>
+<edge source="request" target="operation">
+  <data key="d1">119.0</data>
+</edge>
+<edge source="request" target="application">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="request" target="entity">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="request" target="message">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="request" target="ledger">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="request" target="value">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="transaction" target="node">
+  <data key="d1">264.0</data>
+</edge>
+<edge source="transaction" target="block">
+  <data key="d1">215.0</data>
+</edge>
+<edge source="transaction" target="transactions">
+  <data key="d1">193.0</data>
+</edge>
+<edge source="transaction" target="ledger">
+  <data key="d1">192.0</data>
+</edge>
+<edge source="transaction" target="response">
+  <data key="d1">186.0</data>
+</edge>
+<edge source="transaction" target="plurality">
+  <data key="d1">184.0</data>
+</edge>
+<edge source="transaction" target="key">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="transaction" target="example">
+  <data key="d1">157.0</data>
+</edge>
+<edge source="transaction" target="nodes">
+  <data key="d1">154.0</data>
+</edge>
+<edge source="transaction" target="account">
+  <data key="d1">141.0</data>
+</edge>
+<edge source="transaction" target="value">
+  <data key="d1">137.0</data>
+</edge>
+<edge source="transaction" target="identifier">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="transaction" target="contract">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="transaction" target="operation">
+  <data key="d1">115.0</data>
+</edge>
+<edge source="transaction" target="amount">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="transaction" target="processing">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="transaction" target="hash">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="transaction" target="target">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="transaction" target="storage">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="transaction" target="payment">
+  <data key="d1">100.0</data>
+</edge>
+<edge source="plurality" target="nodes">
+  <data key="d1">311.0</data>
+</edge>
+<edge source="plurality" target="node">
+  <data key="d1">272.0</data>
+</edge>
+<edge source="plurality" target="devices">
+  <data key="d1">186.0</data>
+</edge>
+<edge source="plurality" target="block">
+  <data key="d1">171.0</data>
+</edge>
+<edge source="plurality" target="storage">
+  <data key="d1">160.0</data>
+</edge>
+<edge source="plurality" target="response">
+  <data key="d1">149.0</data>
+</edge>
+<edge source="plurality" target="ledger">
+  <data key="d1">146.0</data>
+</edge>
+<edge source="plurality" target="example">
+  <data key="d1">133.0</data>
+</edge>
+<edge source="plurality" target="operation">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="plurality" target="value">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="plurality" target="blocks">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="plurality" target="access">
+  <data key="d1">109.0</data>
+</edge>
+<edge source="plurality" target="processing">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="plurality" target="computer">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="computer" target="storage">
+  <data key="d1">375.0</data>
+</edge>
+<edge source="computer" target="apparatus">
+  <data key="d1">325.0</data>
+</edge>
+<edge source="computer" target="programs">
+  <data key="d1">314.0</data>
+</edge>
+<edge source="computer" target="media">
+  <data key="d1">262.0</data>
+</edge>
+<edge source="computer" target="program">
+  <data key="d1">227.0</data>
+</edge>
+<edge source="computer" target="herein">
+  <data key="d1">194.0</data>
+</edge>
+<edge source="computer" target="Methods">
+  <data key="d1">165.0</data>
+</edge>
+<edge source="computer" target="product">
+  <data key="d1">115.0</data>
+</edge>
+<edge source="response" target="node">
+  <data key="d1">175.0</data>
+</edge>
+<edge source="response" target="service">
+  <data key="d1">137.0</data>
+</edge>
+<edge source="response" target="example">
+  <data key="d1">135.0</data>
+</edge>
+<edge source="response" target="access">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="response" target="server">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="response" target="message">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="response" target="block">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="response" target="value">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="response" target="contract">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="response" target="operation">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="node" target="nodes">
+  <data key="d1">385.0</data>
+</edge>
+<edge source="node" target="block">
+  <data key="d1">186.0</data>
+</edge>
+<edge source="node" target="example">
+  <data key="d1">134.0</data>
+</edge>
+<edge source="node" target="consensus">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="node" target="operation">
+  <data key="d1">121.0</data>
+</edge>
+<edge source="node" target="key">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="node" target="ledger">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="node" target="storage">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="nodes" target="block">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="nodes" target="ledger">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="nodes" target="consensus">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="storage" target="apparatus">
+  <data key="d1">331.0</data>
+</edge>
+<edge source="storage" target="programs">
+  <data key="d1">288.0</data>
+</edge>
+<edge source="storage" target="media">
+  <data key="d1">269.0</data>
+</edge>
+<edge source="storage" target="Methods">
+  <data key="d1">160.0</data>
+</edge>
+<edge source="storage" target="herein">
+  <data key="d1">147.0</data>
+</edge>
+<edge source="example" target="operation">
+  <data key="d1">319.0</data>
+</edge>
+<edge source="apparatus" target="programs">
+  <data key="d1">279.0</data>
+</edge>
+<edge source="apparatus" target="media">
+  <data key="d1">233.0</data>
+</edge>
+<edge source="apparatus" target="Methods">
+  <data key="d1">187.0</data>
+</edge>
+<edge source="apparatus" target="herein">
+  <data key="d1">154.0</data>
+</edge>
+<edge source="programs" target="media">
+  <data key="d1">248.0</data>
+</edge>
+<edge source="programs" target="herein">
+  <data key="d1">154.0</data>
+</edge>
+<edge source="programs" target="Methods">
+  <data key="d1">142.0</data>
+</edge>
+<edge source="media" target="Methods">
+  <data key="d1">150.0</data>
+</edge>
+<edge source="media" target="herein">
+  <data key="d1">143.0</data>
+</edge>
+<edge source="client" target="server">
+  <data key="d1">137.0</data>
+</edge>
+<edge source="server" target="service">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="server" target="authentication">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="key" target="signature">
+  <data key="d1">159.0</data>
+</edge>
+<edge source="key" target="encryption">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="key" target="hash">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="key" target="access">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="key" target="value">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="block" target="chain">
+  <data key="d1">231.0</data>
+</edge>
+<edge source="block" target="blocks">
+  <data key="d1">183.0</data>
+</edge>
+<edge source="block" target="hash">
+  <data key="d1">148.0</data>
+</edge>
+<edge source="block" target="ledger">
+  <data key="d1">148.0</data>
+</edge>
+<edge source="block" target="value">
+  <data key="d1">115.0</data>
+</edge>
+<edge source="ledger" target="transactions">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="value" target="hash">
+  <data key="d1">218.0</data>
+</edge>
+<edge source="service" target="provider">
+  <data key="d1">160.0</data>
+</edge>
+<edge source="program" target="product">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="identity" target="authentication">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="identity" target="verification">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="processor" target="memory">
+  <data key="d1">162.0</data>
+</edge>
+</graph></graphml>
