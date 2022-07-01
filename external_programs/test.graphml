@@ -1,0 +1,1864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="영화">
+  <data key="d0">3012</data>
+</node>
+<node id="관람객">
+  <data key="d0">2497</data>
+</node>
+<node id="음악">
+  <data key="d0">1608</data>
+</node>
+<node id="인생">
+  <data key="d0">1014</data>
+</node>
+<node id="뮤지컬">
+  <data key="d0">1284</data>
+</node>
+<node id="꿈">
+  <data key="d0">1326</data>
+</node>
+<node id="노래">
+  <data key="d0">1012</data>
+</node>
+<node id="최고">
+  <data key="d0">889</data>
+</node>
+<node id="마지막">
+  <data key="d0">1244</data>
+</node>
+<node id="사랑">
+  <data key="d0">1238</data>
+</node>
+<node id="현실">
+  <data key="d0">1039</data>
+</node>
+<node id="스토리">
+  <data key="d0">1059</data>
+</node>
+<node id="여운">
+  <data key="d0">730</data>
+</node>
+<node id="영상미">
+  <data key="d0">818</data>
+</node>
+<node id="영상">
+  <data key="d0">679</data>
+</node>
+<node id="감동">
+  <data key="d0">732</data>
+</node>
+<node id="라라">
+  <data key="d0">660</data>
+</node>
+<node id="랜드">
+  <data key="d0">648</data>
+</node>
+<node id="장면">
+  <data key="d0">937</data>
+</node>
+<node id="처음">
+  <data key="d0">720</data>
+</node>
+<node id="결말">
+  <data key="d0">668</data>
+</node>
+<node id="끝">
+  <data key="d0">717</data>
+</node>
+<node id="배우">
+  <data key="d0">773</data>
+</node>
+<node id="듯">
+  <data key="d0">884</data>
+</node>
+<node id="연기">
+  <data key="d0">725</data>
+</node>
+<node id="기대">
+  <data key="d0">686</data>
+</node>
+<node id="재즈">
+  <data key="d0">804</data>
+</node>
+<node id="거">
+  <data key="d0">919</data>
+</node>
+<node id="감독">
+  <data key="d0">864</data>
+</node>
+<node id="게">
+  <data key="d0">698</data>
+</node>
+<node id="내용">
+  <data key="d0">659</data>
+</node>
+<node id="눈">
+  <data key="d0">553</data>
+</node>
+<node id="귀">
+  <data key="d0">403</data>
+</node>
+<node id="평점">
+  <data key="d0">666</data>
+</node>
+<node id="엔딩">
+  <data key="d0">646</data>
+</node>
+<node id="연출">
+  <data key="d0">704</data>
+</node>
+<node id="색감">
+  <data key="d0">473</data>
+</node>
+<node id="눈물">
+  <data key="d0">596</data>
+</node>
+<node id="라이언">
+  <data key="d0">441</data>
+</node>
+<node id="고슬링">
+  <data key="d0">466</data>
+</node>
+<node id="주인공">
+  <data key="d0">639</data>
+</node>
+<node id="느낌">
+  <data key="d0">667</data>
+</node>
+<node id="행복">
+  <data key="d0">446</data>
+</node>
+<node id="마음">
+  <data key="d0">508</data>
+</node>
+<node id="중간">
+  <data key="d0">576</data>
+</node>
+<node id="위플">
+  <data key="d0">387</data>
+</node>
+<node id="래쉬">
+  <data key="d0">363</data>
+</node>
+<node id="이야기">
+  <data key="d0">513</data>
+</node>
+<node id="남자">
+  <data key="d0">705</data>
+</node>
+<node id="가슴">
+  <data key="d0">494</data>
+</node>
+<node id="환상">
+  <data key="d0">427</data>
+</node>
+<node id="감정">
+  <data key="d0">552</data>
+</node>
+<node id="친구">
+  <data key="d0">470</data>
+</node>
+<node id="부분">
+  <data key="d0">535</data>
+</node>
+<node id="오랜만">
+  <data key="d0">332</data>
+</node>
+<node id="시작">
+  <data key="d0">482</data>
+</node>
+<node id="눈빛">
+  <data key="d0">393</data>
+</node>
+<node id="굿">
+  <data key="d0">153</data>
+</node>
+<node id="춤">
+  <data key="d0">523</data>
+</node>
+<node id="완벽">
+  <data key="d0">377</data>
+</node>
+<node id="로맨스">
+  <data key="d0">471</data>
+</node>
+<node id="기분">
+  <data key="d0">417</data>
+</node>
+<node id="줄">
+  <data key="d0">423</data>
+</node>
+<node id="예술">
+  <data key="d0">419</data>
+</node>
+<node id="배경">
+  <data key="d0">437</data>
+</node>
+<node id="해피">
+  <data key="d0">331</data>
+</node>
+<node id="초반">
+  <data key="d0">408</data>
+</node>
+<node id="피아노">
+  <data key="d0">489</data>
+</node>
+<node id="재미">
+  <data key="d0">367</data>
+</node>
+<node id="영화관">
+  <data key="d0">357</data>
+</node>
+<node id="개인">
+  <data key="d0">406</data>
+</node>
+<node id="동화">
+  <data key="d0">300</data>
+</node>
+<node id="열정">
+  <data key="d0">396</data>
+</node>
+<node id="서로">
+  <data key="d0">389</data>
+</node>
+<node id="밋">
+  <data key="d0">120</data>
+</node>
+<node id="이해">
+  <data key="d0">486</data>
+</node>
+<node id="엠마스톤">
+  <data key="d0">441</data>
+</node>
+<node id="잼">
+  <data key="d0">330</data>
+</node>
+<node id="몰입">
+  <data key="d0">380</data>
+</node>
+<node id="공감">
+  <data key="d0">361</data>
+</node>
+<node id="걸">
+  <data key="d0">455</data>
+</node>
+<node id="매력">
+  <data key="d0">344</data>
+</node>
+<node id="노">
+  <data key="d0">256</data>
+</node>
+<node id="호불호">
+  <data key="d0">298</data>
+</node>
+<node id="추천">
+  <data key="d0">332</data>
+</node>
+<node id="전개">
+  <data key="d0">417</data>
+</node>
+<node id="표현">
+  <data key="d0">422</data>
+</node>
+<node id="연인">
+  <data key="d0">356</data>
+</node>
+<node id="최악">
+  <data key="d0">260</data>
+</node>
+<node id="씬">
+  <data key="d0">451</data>
+</node>
+<node id="감성">
+  <data key="d0">282</data>
+</node>
+<node id="날">
+  <data key="d0">313</data>
+</node>
+<node id="라이언고슬링">
+  <data key="d0">286</data>
+</node>
+<node id="미아">
+  <data key="d0">515</data>
+</node>
+<node id="기억">
+  <data key="d0">391</data>
+</node>
+<node id="구성">
+  <data key="d0">285</data>
+</node>
+<node id="삶">
+  <data key="d0">324</data>
+</node>
+<node id="엠마">
+  <data key="d0">327</data>
+</node>
+<node id="스톤">
+  <data key="d0">226</data>
+</node>
+<node id="마법">
+  <data key="d0">253</data>
+</node>
+<node id="작품">
+  <data key="d0">366</data>
+</node>
+<node id="돈">
+  <data key="d0">391</data>
+</node>
+<node id="자체">
+  <data key="d0">340</data>
+</node>
+<node id="극장">
+  <data key="d0">284</data>
+</node>
+<node id="화면">
+  <data key="d0">282</data>
+</node>
+<node id="크리스마스">
+  <data key="d0">234</data>
+</node>
+<node id="연주">
+  <data key="d0">340</data>
+</node>
+<node id="상상">
+  <data key="d0">308</data>
+</node>
+<node id="오프닝">
+  <data key="d0">370</data>
+</node>
+<node id="관람">
+  <data key="d0">276</data>
+</node>
+<node id="모습">
+  <data key="d0">302</data>
+</node>
+<node id="맘">
+  <data key="d0">245</data>
+</node>
+<node id="순간">
+  <data key="d0">315</data>
+</node>
+<node id="회상">
+  <data key="d0">250</data>
+</node>
+<node id="분위기">
+  <data key="d0">253</data>
+</node>
+<node id="낭만">
+  <data key="d0">284</data>
+</node>
+<node id="남녀">
+  <data key="d0">335</data>
+</node>
+<node id="미소">
+  <data key="d0">244</data>
+</node>
+<node id="뒤">
+  <data key="d0">295</data>
+</node>
+<node id="후회">
+  <data key="d0">284</data>
+</node>
+<node id="응원">
+  <data key="d0">211</data>
+</node>
+<node id="선택">
+  <data key="d0">288</data>
+</node>
+<node id="평">
+  <data key="d0">224</data>
+</node>
+<node id="필요">
+  <data key="d0">222</data>
+</node>
+<node id="전체">
+  <data key="d0">206</data>
+</node>
+<node id="여주">
+  <data key="d0">336</data>
+</node>
+<node id="남주">
+  <data key="d0">303</data>
+</node>
+<node id="개연">
+  <data key="d0">275</data>
+</node>
+<node id="반전">
+  <data key="d0">202</data>
+</node>
+<node id="취향">
+  <data key="d0">247</data>
+</node>
+<node id="맘마">
+  <data key="d0">178</data>
+</node>
+<node id="사이">
+  <data key="d0">207</data>
+</node>
+<node id="뻔">
+  <data key="d0">288</data>
+</node>
+<node id="대사">
+  <data key="d0">247</data>
+</node>
+<node id="요소">
+  <data key="d0">233</data>
+</node>
+<node id="어게인">
+  <data key="d0">278</data>
+</node>
+<node id="포기">
+  <data key="d0">199</data>
+</node>
+<edge source="영화" target="관람객">
+  <data key="d1">1899.0</data>
+</edge>
+<edge source="영화" target="음악">
+  <data key="d1">765.0</data>
+</edge>
+<edge source="영화" target="인생">
+  <data key="d1">626.0</data>
+</edge>
+<edge source="영화" target="뮤지컬">
+  <data key="d1">550.0</data>
+</edge>
+<edge source="영화" target="최고">
+  <data key="d1">451.0</data>
+</edge>
+<edge source="영화" target="꿈">
+  <data key="d1">432.0</data>
+</edge>
+<edge source="영화" target="마지막">
+  <data key="d1">431.0</data>
+</edge>
+<edge source="영화" target="사랑">
+  <data key="d1">361.0</data>
+</edge>
+<edge source="영화" target="노래">
+  <data key="d1">323.0</data>
+</edge>
+<edge source="영화" target="여운">
+  <data key="d1">322.0</data>
+</edge>
+<edge source="영화" target="현실">
+  <data key="d1">287.0</data>
+</edge>
+<edge source="영화" target="스토리">
+  <data key="d1">284.0</data>
+</edge>
+<edge source="영화" target="장면">
+  <data key="d1">246.0</data>
+</edge>
+<edge source="영화" target="처음">
+  <data key="d1">230.0</data>
+</edge>
+<edge source="영화" target="영상미">
+  <data key="d1">228.0</data>
+</edge>
+<edge source="영화" target="끝">
+  <data key="d1">225.0</data>
+</edge>
+<edge source="영화" target="감동">
+  <data key="d1">215.0</data>
+</edge>
+<edge source="영화" target="듯">
+  <data key="d1">202.0</data>
+</edge>
+<edge source="영화" target="거">
+  <data key="d1">193.0</data>
+</edge>
+<edge source="영화" target="연기">
+  <data key="d1">177.0</data>
+</edge>
+<edge source="영화" target="배우">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="영화" target="영상">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="영화" target="감독">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="영화" target="게">
+  <data key="d1">164.0</data>
+</edge>
+<edge source="영화" target="재즈">
+  <data key="d1">163.0</data>
+</edge>
+<edge source="영화" target="평점">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="영화" target="내용">
+  <data key="d1">151.0</data>
+</edge>
+<edge source="영화" target="연출">
+  <data key="d1">146.0</data>
+</edge>
+<edge source="영화" target="라라">
+  <data key="d1">146.0</data>
+</edge>
+<edge source="영화" target="결말">
+  <data key="d1">146.0</data>
+</edge>
+<edge source="영화" target="엔딩">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="영화" target="기대">
+  <data key="d1">139.0</data>
+</edge>
+<edge source="영화" target="눈물">
+  <data key="d1">138.0</data>
+</edge>
+<edge source="영화" target="랜드">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="영화" target="느낌">
+  <data key="d1">131.0</data>
+</edge>
+<edge source="영화" target="눈">
+  <data key="d1">129.0</data>
+</edge>
+<edge source="영화" target="행복">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="영화" target="마음">
+  <data key="d1">122.0</data>
+</edge>
+<edge source="영화" target="주인공">
+  <data key="d1">120.0</data>
+</edge>
+<edge source="영화" target="중간">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="영화" target="남자">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="영화" target="가슴">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="영화" target="색감">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="영화" target="감정">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="영화" target="귀">
+  <data key="d1">98.0</data>
+</edge>
+<edge source="영화" target="친구">
+  <data key="d1">97.0</data>
+</edge>
+<edge source="영화" target="부분">
+  <data key="d1">97.0</data>
+</edge>
+<edge source="영화" target="환상">
+  <data key="d1">97.0</data>
+</edge>
+<edge source="영화" target="오랜만">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="영화" target="시작">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="영화" target="완벽">
+  <data key="d1">91.0</data>
+</edge>
+<edge source="영화" target="로맨스">
+  <data key="d1">90.0</data>
+</edge>
+<edge source="영화" target="기분">
+  <data key="d1">89.0</data>
+</edge>
+<edge source="영화" target="줄">
+  <data key="d1">89.0</data>
+</edge>
+<edge source="영화" target="예술">
+  <data key="d1">88.0</data>
+</edge>
+<edge source="영화" target="영화관">
+  <data key="d1">83.0</data>
+</edge>
+<edge source="영화" target="개인">
+  <data key="d1">83.0</data>
+</edge>
+<edge source="영화" target="춤">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="영화" target="이야기">
+  <data key="d1">74.0</data>
+</edge>
+<edge source="영화" target="피아노">
+  <data key="d1">73.0</data>
+</edge>
+<edge source="영화" target="이해">
+  <data key="d1">72.0</data>
+</edge>
+<edge source="영화" target="엠마스톤">
+  <data key="d1">71.0</data>
+</edge>
+<edge source="영화" target="몰입">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="영화" target="공감">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="영화" target="걸">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="영화" target="초반">
+  <data key="d1">67.0</data>
+</edge>
+<edge source="영화" target="배경">
+  <data key="d1">67.0</data>
+</edge>
+<edge source="영화" target="호불호">
+  <data key="d1">65.0</data>
+</edge>
+<edge source="영화" target="추천">
+  <data key="d1">64.0</data>
+</edge>
+<edge source="영화" target="표현">
+  <data key="d1">64.0</data>
+</edge>
+<edge source="영화" target="연인">
+  <data key="d1">62.0</data>
+</edge>
+<edge source="영화" target="최악">
+  <data key="d1">62.0</data>
+</edge>
+<edge source="영화" target="감성">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="영화" target="동화">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="영화" target="날">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="영화" target="고슬링">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="영화" target="라이언고슬링">
+  <data key="d1">57.0</data>
+</edge>
+<edge source="영화" target="매력">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="영화" target="미아">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="영화" target="라이언">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="영화" target="마법">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="영화" target="작품">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="영화" target="돈">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="영화" target="자체">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="영화" target="눈빛">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="영화" target="극장">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="영화" target="기억">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="영화" target="전개">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="영화" target="위플">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="영화" target="열정">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="영화" target="재미">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="영화" target="해피">
+  <data key="d1">50.0</data>
+</edge>
+<edge source="영화" target="씬">
+  <data key="d1">48.0</data>
+</edge>
+<edge source="영화" target="래쉬">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="영화" target="오프닝">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="영화" target="크리스마스">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="영화" target="관람">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="영화" target="순간">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="영화" target="삶">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="영화" target="서로">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="영화" target="잼">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="영화" target="낭만">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="영화" target="상상">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="영화" target="구성">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="영화" target="뒤">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="영화" target="후회">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="영화" target="엠마">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="영화" target="평">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="영화" target="필요">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="영화" target="분위기">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="영화" target="개연">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="영화" target="뻔">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="영화" target="대사">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="영화" target="어게인">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="영화" target="남녀">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="관람객" target="음악">
+  <data key="d1">1054.0</data>
+</edge>
+<edge source="관람객" target="꿈">
+  <data key="d1">544.0</data>
+</edge>
+<edge source="관람객" target="뮤지컬">
+  <data key="d1">463.0</data>
+</edge>
+<edge source="관람객" target="노래">
+  <data key="d1">462.0</data>
+</edge>
+<edge source="관람객" target="마지막">
+  <data key="d1">424.0</data>
+</edge>
+<edge source="관람객" target="사랑">
+  <data key="d1">404.0</data>
+</edge>
+<edge source="관람객" target="현실">
+  <data key="d1">374.0</data>
+</edge>
+<edge source="관람객" target="최고">
+  <data key="d1">356.0</data>
+</edge>
+<edge source="관람객" target="인생">
+  <data key="d1">353.0</data>
+</edge>
+<edge source="관람객" target="스토리">
+  <data key="d1">325.0</data>
+</edge>
+<edge source="관람객" target="영상미">
+  <data key="d1">301.0</data>
+</edge>
+<edge source="관람객" target="여운">
+  <data key="d1">277.0</data>
+</edge>
+<edge source="관람객" target="감동">
+  <data key="d1">270.0</data>
+</edge>
+<edge source="관람객" target="영상">
+  <data key="d1">259.0</data>
+</edge>
+<edge source="관람객" target="결말">
+  <data key="d1">230.0</data>
+</edge>
+<edge source="관람객" target="배우">
+  <data key="d1">215.0</data>
+</edge>
+<edge source="관람객" target="장면">
+  <data key="d1">197.0</data>
+</edge>
+<edge source="관람객" target="연기">
+  <data key="d1">195.0</data>
+</edge>
+<edge source="관람객" target="기대">
+  <data key="d1">195.0</data>
+</edge>
+<edge source="관람객" target="재즈">
+  <data key="d1">193.0</data>
+</edge>
+<edge source="관람객" target="듯">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="관람객" target="내용">
+  <data key="d1">161.0</data>
+</edge>
+<edge source="관람객" target="라라">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="관람객" target="눈">
+  <data key="d1">157.0</data>
+</edge>
+<edge source="관람객" target="엔딩">
+  <data key="d1">150.0</data>
+</edge>
+<edge source="관람객" target="끝">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="관람객" target="색감">
+  <data key="d1">143.0</data>
+</edge>
+<edge source="관람객" target="주인공">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="관람객" target="거">
+  <data key="d1">129.0</data>
+</edge>
+<edge source="관람객" target="연출">
+  <data key="d1">129.0</data>
+</edge>
+<edge source="관람객" target="귀">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="관람객" target="느낌">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="관람객" target="마음">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="관람객" target="랜드">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="관람객" target="행복">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="관람객" target="처음">
+  <data key="d1">122.0</data>
+</edge>
+<edge source="관람객" target="이야기">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="관람객" target="게">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="관람객" target="환상">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="관람객" target="남자">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="관람객" target="부분">
+  <data key="d1">96.0</data>
+</edge>
+<edge source="관람객" target="가슴">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="관람객" target="중간">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="관람객" target="굿">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="관람객" target="춤">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="관람객" target="오랜만">
+  <data key="d1">92.0</data>
+</edge>
+<edge source="관람객" target="친구">
+  <data key="d1">89.0</data>
+</edge>
+<edge source="관람객" target="배경">
+  <data key="d1">88.0</data>
+</edge>
+<edge source="관람객" target="초반">
+  <data key="d1">86.0</data>
+</edge>
+<edge source="관람객" target="피아노">
+  <data key="d1">84.0</data>
+</edge>
+<edge source="관람객" target="재미">
+  <data key="d1">84.0</data>
+</edge>
+<edge source="관람객" target="개인">
+  <data key="d1">83.0</data>
+</edge>
+<edge source="관람객" target="기분">
+  <data key="d1">81.0</data>
+</edge>
+<edge source="관람객" target="동화">
+  <data key="d1">80.0</data>
+</edge>
+<edge source="관람객" target="감독">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="관람객" target="눈물">
+  <data key="d1">76.0</data>
+</edge>
+<edge source="관람객" target="완벽">
+  <data key="d1">75.0</data>
+</edge>
+<edge source="관람객" target="밋">
+  <data key="d1">74.0</data>
+</edge>
+<edge source="관람객" target="감정">
+  <data key="d1">73.0</data>
+</edge>
+<edge source="관람객" target="잼">
+  <data key="d1">71.0</data>
+</edge>
+<edge source="관람객" target="라이언">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="관람객" target="엠마스톤">
+  <data key="d1">68.0</data>
+</edge>
+<edge source="관람객" target="해피">
+  <data key="d1">68.0</data>
+</edge>
+<edge source="관람객" target="매력">
+  <data key="d1">67.0</data>
+</edge>
+<edge source="관람객" target="공감">
+  <data key="d1">66.0</data>
+</edge>
+<edge source="관람객" target="고슬링">
+  <data key="d1">65.0</data>
+</edge>
+<edge source="관람객" target="전개">
+  <data key="d1">64.0</data>
+</edge>
+<edge source="관람객" target="줄">
+  <data key="d1">63.0</data>
+</edge>
+<edge source="관람객" target="서로">
+  <data key="d1">62.0</data>
+</edge>
+<edge source="관람객" target="예술">
+  <data key="d1">61.0</data>
+</edge>
+<edge source="관람객" target="시작">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="관람객" target="연인">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="관람객" target="추천">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="관람객" target="기억">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="관람객" target="구성">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="관람객" target="로맨스">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="관람객" target="삶">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="관람객" target="열정">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="관람객" target="몰입">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="관람객" target="감성">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="관람객" target="호불호">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="관람객" target="화면">
+  <data key="d1">50.0</data>
+</edge>
+<edge source="관람객" target="크리스마스">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="관람객" target="표현">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="관람객" target="라이언고슬링">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="관람객" target="영화관">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="관람객" target="작품">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="관람객" target="모습">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="관람객" target="맘">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="관람객" target="분위기">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="관람객" target="이해">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="관람객" target="오프닝">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="관람객" target="낭만">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="관람객" target="남녀">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="관람객" target="관람">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="관람객" target="걸">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="관람객" target="위플">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="관람객" target="상상">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="관람객" target="엠마">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="관람객" target="선택">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="관람객" target="씬">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="관람객" target="연주">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="관람객" target="전체">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="관람객" target="뒤">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="관람객" target="반전">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="관람객" target="취향">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="관람객" target="미아">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="관람객" target="마법">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="관람객" target="자체">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="관람객" target="순간">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="관람객" target="요소">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="관람객" target="눈빛">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="음악" target="영상">
+  <data key="d1">289.0</data>
+</edge>
+<edge source="음악" target="스토리">
+  <data key="d1">286.0</data>
+</edge>
+<edge source="음악" target="영상미">
+  <data key="d1">224.0</data>
+</edge>
+<edge source="음악" target="연기">
+  <data key="d1">201.0</data>
+</edge>
+<edge source="음악" target="배우">
+  <data key="d1">193.0</data>
+</edge>
+<edge source="음악" target="사랑">
+  <data key="d1">177.0</data>
+</edge>
+<edge source="음악" target="뮤지컬">
+  <data key="d1">165.0</data>
+</edge>
+<edge source="음악" target="꿈">
+  <data key="d1">153.0</data>
+</edge>
+<edge source="음악" target="마지막">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="음악" target="최고">
+  <data key="d1">133.0</data>
+</edge>
+<edge source="음악" target="연출">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="음악" target="재즈">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="음악" target="현실">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="음악" target="인생">
+  <data key="d1">111.0</data>
+</edge>
+<edge source="음악" target="색감">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="음악" target="여운">
+  <data key="d1">98.0</data>
+</edge>
+<edge source="음악" target="장면">
+  <data key="d1">97.0</data>
+</edge>
+<edge source="음악" target="내용">
+  <data key="d1">93.0</data>
+</edge>
+<edge source="음악" target="게">
+  <data key="d1">92.0</data>
+</edge>
+<edge source="음악" target="듯">
+  <data key="d1">87.0</data>
+</edge>
+<edge source="음악" target="춤">
+  <data key="d1">87.0</data>
+</edge>
+<edge source="음악" target="감동">
+  <data key="d1">84.0</data>
+</edge>
+<edge source="음악" target="배경">
+  <data key="d1">82.0</data>
+</edge>
+<edge source="음악" target="노래">
+  <data key="d1">74.0</data>
+</edge>
+<edge source="음악" target="결말">
+  <data key="d1">69.0</data>
+</edge>
+<edge source="음악" target="주인공">
+  <data key="d1">68.0</data>
+</edge>
+<edge source="음악" target="감독">
+  <data key="d1">65.0</data>
+</edge>
+<edge source="음악" target="완벽">
+  <data key="d1">62.0</data>
+</edge>
+<edge source="음악" target="엔딩">
+  <data key="d1">60.0</data>
+</edge>
+<edge source="음악" target="끝">
+  <data key="d1">57.0</data>
+</edge>
+<edge source="음악" target="귀">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="음악" target="기대">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="음악" target="느낌">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="음악" target="마음">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="음악" target="이야기">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="음악" target="처음">
+  <data key="d1">48.0</data>
+</edge>
+<edge source="음악" target="거">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="음악" target="부분">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="음악" target="라라">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="음악" target="눈">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="음악" target="환상">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="음악" target="화면">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="음악" target="매력">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="음악" target="중간">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="음악" target="행복">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="음악" target="구성">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="음악" target="랜드">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="음악" target="피아노">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="인생" target="최고">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="인생" target="사랑">
+  <data key="d1">93.0</data>
+</edge>
+<edge source="인생" target="꿈">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="인생" target="마지막">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="인생" target="노래">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="인생" target="영상미">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="인생" target="여운">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="인생" target="뮤지컬">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="인생" target="감동">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="인생" target="현실">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="인생" target="라라">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="인생" target="눈물">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="인생" target="처음">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="인생" target="장면">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="뮤지컬" target="듯">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="뮤지컬" target="스토리">
+  <data key="d1">96.0</data>
+</edge>
+<edge source="뮤지컬" target="노래">
+  <data key="d1">87.0</data>
+</edge>
+<edge source="뮤지컬" target="최고">
+  <data key="d1">81.0</data>
+</edge>
+<edge source="뮤지컬" target="느낌">
+  <data key="d1">78.0</data>
+</edge>
+<edge source="뮤지컬" target="재즈">
+  <data key="d1">66.0</data>
+</edge>
+<edge source="뮤지컬" target="마지막">
+  <data key="d1">65.0</data>
+</edge>
+<edge source="뮤지컬" target="사랑">
+  <data key="d1">63.0</data>
+</edge>
+<edge source="뮤지컬" target="꿈">
+  <data key="d1">62.0</data>
+</edge>
+<edge source="뮤지컬" target="현실">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="뮤지컬" target="장면">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="뮤지컬" target="배우">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="뮤지컬" target="거">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="뮤지컬" target="연기">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="뮤지컬" target="연출">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="뮤지컬" target="영상미">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="뮤지컬" target="내용">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="뮤지컬" target="기대">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="뮤지컬" target="처음">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="뮤지컬" target="여운">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="뮤지컬" target="감동">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="뮤지컬" target="중간">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="꿈" target="사랑">
+  <data key="d1">394.0</data>
+</edge>
+<edge source="꿈" target="현실">
+  <data key="d1">269.0</data>
+</edge>
+<edge source="꿈" target="마지막">
+  <data key="d1">98.0</data>
+</edge>
+<edge source="꿈" target="열정">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="꿈" target="서로">
+  <data key="d1">78.0</data>
+</edge>
+<edge source="꿈" target="이야기">
+  <data key="d1">73.0</data>
+</edge>
+<edge source="꿈" target="재즈">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="꿈" target="노래">
+  <data key="d1">66.0</data>
+</edge>
+<edge source="꿈" target="듯">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="꿈" target="게">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="꿈" target="주인공">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="꿈" target="감동">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="꿈" target="장면">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="꿈" target="라라">
+  <data key="d1">49.0</data>
+</edge>
+<edge source="꿈" target="가슴">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="끝">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="여운">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="스토리">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="최고">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="거">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="꿈" target="모습">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="꿈" target="눈물">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="꿈" target="랜드">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="꿈" target="환상">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="꿈" target="행복">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="꿈" target="영상미">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="꿈" target="응원">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="꿈" target="영상">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="꿈" target="결말">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="꿈" target="연기">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="꿈" target="엔딩">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="꿈" target="사이">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="꿈" target="포기">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="꿈" target="삶">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="노래" target="춤">
+  <data key="d1">87.0</data>
+</edge>
+<edge source="노래" target="스토리">
+  <data key="d1">87.0</data>
+</edge>
+<edge source="노래" target="영상미">
+  <data key="d1">84.0</data>
+</edge>
+<edge source="노래" target="마지막">
+  <data key="d1">73.0</data>
+</edge>
+<edge source="노래" target="배우">
+  <data key="d1">73.0</data>
+</edge>
+<edge source="노래" target="연기">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="노래" target="내용">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="노래" target="영상">
+  <data key="d1">57.0</data>
+</edge>
+<edge source="노래" target="장면">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="노래" target="사랑">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="노래" target="최고">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="노래" target="여운">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="노래" target="결말">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="노래" target="색감">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="노래" target="처음">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="노래" target="연출">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="노래" target="듯">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="노래" target="거">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="노래" target="중간">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="노래" target="현실">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="노래" target="감동">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="최고" target="마지막">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="최고" target="연기">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="최고" target="영상미">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="최고" target="여운">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="최고" target="스토리">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="최고" target="영상">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="최고" target="감동">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="최고" target="연출">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="최고" target="사랑">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="마지막" target="장면">
+  <data key="d1">234.0</data>
+</edge>
+<edge source="마지막" target="눈빛">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="마지막" target="눈물">
+  <data key="d1">86.0</data>
+</edge>
+<edge source="마지막" target="사랑">
+  <data key="d1">82.0</data>
+</edge>
+<edge source="마지막" target="여운">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="마지막" target="엔딩">
+  <data key="d1">71.0</data>
+</edge>
+<edge source="마지막" target="현실">
+  <data key="d1">66.0</data>
+</edge>
+<edge source="마지막" target="씬">
+  <data key="d1">60.0</data>
+</edge>
+<edge source="마지막" target="듯">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="마지막" target="남자">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="마지막" target="주인공">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="마지막" target="부분">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="마지막" target="스토리">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="마지막" target="결말">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="마지막" target="피아노">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="마지막" target="처음">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="마지막" target="감동">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="마지막" target="서로">
+  <data key="d1">49.0</data>
+</edge>
+<edge source="마지막" target="감정">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="마지막" target="거">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="마지막" target="영상미">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="마지막" target="상상">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="마지막" target="회상">
+  <data key="d1">45.0</data>
+</edge>
+<edge source="마지막" target="가슴">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="마지막" target="미소">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="마지막" target="영상">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="마지막" target="연출">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="마지막" target="중간">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="마지막" target="연주">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="마지막" target="느낌">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="마지막" target="마음">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="사랑" target="현실">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="사랑" target="이야기">
+  <data key="d1">82.0</data>
+</edge>
+<edge source="사랑" target="여운">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="사랑" target="열정">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="사랑" target="재즈">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="사랑" target="서로">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="사랑" target="가슴">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="사랑" target="장면">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="사랑" target="스토리">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="사랑" target="끝">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="사랑" target="영상미">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="사랑" target="영상">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="사랑" target="눈물">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="사랑" target="환상">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="사랑" target="라라">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="사랑" target="남녀">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="사랑" target="엔딩">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="사랑" target="감정">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="현실" target="결말">
+  <data key="d1">70.0</data>
+</edge>
+<edge source="현실" target="환상">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="현실" target="여운">
+  <data key="d1">52.0</data>
+</edge>
+<edge source="현실" target="스토리">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="현실" target="이야기">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="현실" target="동화">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="현실" target="엔딩">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="현실" target="장면">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="현실" target="영상미">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="현실" target="낭만">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="스토리" target="영상미">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="스토리" target="영상">
+  <data key="d1">98.0</data>
+</edge>
+<edge source="스토리" target="연기">
+  <data key="d1">80.0</data>
+</edge>
+<edge source="스토리" target="연출">
+  <data key="d1">68.0</data>
+</edge>
+<edge source="스토리" target="배우">
+  <data key="d1">67.0</data>
+</edge>
+<edge source="스토리" target="전개">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="스토리" target="듯">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="스토리" target="여운">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="스토리" target="결말">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="스토리" target="느낌">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="스토리" target="게">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="스토리" target="기대">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="여운" target="감동">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="여운" target="끝">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="여운" target="결말">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="여운" target="장면">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="영상미" target="연기">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="영상미" target="배우">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="영상미" target="내용">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="영상미" target="게">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="영상" target="연기">
+  <data key="d1">61.0</data>
+</edge>
+<edge source="영상" target="배우">
+  <data key="d1">58.0</data>
+</edge>
+<edge source="라라" target="랜드">
+  <data key="d1">268.0</data>
+</edge>
+<edge source="장면" target="눈물">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="장면" target="엔딩">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="처음" target="끝">
+  <data key="d1">72.0</data>
+</edge>
+<edge source="처음" target="평점">
+  <data key="d1">41.0</data>
+</edge>
+<edge source="배우" target="연기">
+  <data key="d1">139.0</data>
+</edge>
+<edge source="배우" target="연출">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="듯" target="느낌">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="연기" target="연출">
+  <data key="d1">72.0</data>
+</edge>
+<edge source="연기" target="게">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="연기" target="색감">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="감독" target="위플">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="감독" target="래쉬">
+  <data key="d1">48.0</data>
+</edge>
+<edge source="눈" target="귀">
+  <data key="d1">158.0</data>
+</edge>
+<edge source="엔딩" target="해피">
+  <data key="d1">88.0</data>
+</edge>
+<edge source="엔딩" target="오프닝">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="라이언" target="고슬링">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="라이언" target="엠마">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="주인공" target="남자">
+  <data key="d1">60.0</data>
+</edge>
+<edge source="위플" target="래쉬">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="남자" target="친구">
+  <data key="d1">61.0</data>
+</edge>
+<edge source="피아노" target="연주">
+  <data key="d1">46.0</data>
+</edge>
+<edge source="엠마스톤" target="라이언고슬링">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="잼" target="노">
+  <data key="d1">67.0</data>
+</edge>
+<edge source="미아" target="맘마">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="엠마" target="스톤">
+  <data key="d1">55.0</data>
+</edge>
+<edge source="여주" target="남주">
+  <data key="d1">37.0</data>
+</edge>
+</graph></graphml>
