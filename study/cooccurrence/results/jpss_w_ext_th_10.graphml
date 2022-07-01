@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="paper">
+  <data key="d0">2116</data>
+</node>
+<node id="payments">
+  <data key="d0">1590</data>
+</node>
+<node id="payment">
+  <data key="d0">1715</data>
+</node>
+<node id="systems">
+  <data key="d0">677</data>
+</node>
+<node id="banks">
+  <data key="d0">768</data>
+</node>
+<node id="market">
+  <data key="d0">571</data>
+</node>
+<node id="system">
+  <data key="d0">609</data>
+</node>
+<node id="payment_systems">
+  <data key="d0">314</data>
+</node>
+<node id="services">
+  <data key="d0">550</data>
+</node>
+<node id="bank">
+  <data key="d0">517</data>
+</node>
+<node id="providers">
+  <data key="d0">529</data>
+</node>
+<node id="service">
+  <data key="d0">438</data>
+</node>
+<node id="service_providers">
+  <data key="d0">334</data>
+</node>
+<node id="banking">
+  <data key="d0">493</data>
+</node>
+<node id="cash">
+  <data key="d0">655</data>
+</node>
+<node id="payment_system">
+  <data key="d0">177</data>
+</node>
+<node id="money">
+  <data key="d0">364</data>
+</node>
+<node id="currencies">
+  <data key="d0">390</data>
+</node>
+<node id="technology">
+  <data key="d0">538</data>
+</node>
+<node id="adoption">
+  <data key="d0">232</data>
+</node>
+<node id="role">
+  <data key="d0">377</data>
+</node>
+<node id="s">
+  <data key="d0">258</data>
+</node>
+<node id="_s">
+  <data key="d0">236</data>
+</node>
+<node id="model">
+  <data key="d0">273</data>
+</node>
+<node id="developments">
+  <data key="d0">274</data>
+</node>
+<node id="industry">
+  <data key="d0">287</data>
+</node>
+<edge source="paper" target="payments">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="paper" target="payment">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="paper" target="banks">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="paper" target="systems">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="paper" target="system">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="paper" target="bank">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="paper" target="banking">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="paper" target="cash">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="paper" target="market">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="paper" target="providers">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="paper" target="money">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="paper" target="currencies">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="paper" target="technology">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="paper" target="role">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="paper" target="model">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="paper" target="developments">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="payments" target="payment">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="payments" target="market">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="payments" target="adoption">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="payments" target="banks">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="payments" target="services">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="payments" target="cash">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="payments" target="system">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="payments" target="industry">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="payment" target="systems">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="payment" target="system">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="payment" target="payment_systems">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="payment" target="services">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="payment" target="banks">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="payment" target="service">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="payment" target="market">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="payment" target="payment_system">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="payment" target="technology">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="payment" target="providers">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="payment" target="service_providers">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="systems" target="payment_systems">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="system" target="payment_system">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="bank" target="currencies">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="providers" target="service">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="providers" target="service_providers">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="service" target="service_providers">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="s" target="_s">
+  <data key="d1">11.0</data>
+</edge>
+</graph></graphml>
