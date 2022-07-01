@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="안전">
+  <data key="d0">24</data>
+</node>
+<node id="식품">
+  <data key="d0">53</data>
+</node>
+<node id="관리">
+  <data key="d0">10</data>
+</node>
+<node id="학교">
+  <data key="d0">11</data>
+</node>
+<node id="급식">
+  <data key="d0">9</data>
+</node>
+<node id="불량">
+  <data key="d0">3</data>
+</node>
+<node id="건강">
+  <data key="d0">3</data>
+</node>
+<node id="지원">
+  <data key="d0">6</data>
+</node>
+<node id="기능">
+  <data key="d0">2</data>
+</node>
+<node id="어린이">
+  <data key="d0">9</data>
+</node>
+<node id="주변">
+  <data key="d0">3</data>
+</node>
+<node id="식약처">
+  <data key="d0">4</data>
+</node>
+<node id="식중독">
+  <data key="d0">3</data>
+</node>
+<node id="예방">
+  <data key="d0">2</data>
+</node>
+<node id="센터">
+  <data key="d0">5</data>
+</node>
+<node id="먹거리">
+  <data key="d0">1</data>
+</node>
+<node id="위생">
+  <data key="d0">11</data>
+</node>
+<node id="판매">
+  <data key="d0">3</data>
+</node>
+<node id="계란">
+  <data key="d0">1</data>
+</node>
+<node id="살충제">
+  <data key="d0">2</data>
+</node>
+<node id="업소">
+  <data key="d0">4</data>
+</node>
+<node id="유통">
+  <data key="d0">2</data>
+</node>
+<node id="농협">
+  <data key="d0">3</data>
+</node>
+<node id="임상">
+  <data key="d0">2</data>
+</node>
+<node id="상">
+  <data key="d0">2</data>
+</node>
+<node id="근절">
+  <data key="d0">5</data>
+</node>
+<node id="사회악">
+  <data key="d0">1</data>
+</node>
+<node id="기한">
+  <data key="d0">1</data>
+</node>
+<node id="가공">
+  <data key="d0">1</data>
+</node>
+<node id="푸드">
+  <data key="d0">1</data>
+</node>
+<node id="로컬">
+  <data key="d0">1</data>
+</node>
+<node id="점검">
+  <data key="d0">5</data>
+</node>
+<node id="업체">
+  <data key="d0">2</data>
+</node>
+<node id="산업">
+  <data key="d0">1</data>
+</node>
+<node id="국민">
+  <data key="d0">2</data>
+</node>
+<node id="제조">
+  <data key="d0">2</data>
+</node>
+<node id="음식점">
+  <data key="d0">1</data>
+</node>
+<node id="수입">
+  <data key="d0">2</data>
+</node>
+<node id="치료제">
+  <data key="d0">2</data>
+</node>
+<node id="기기">
+  <data key="d0">1</data>
+</node>
+<node id="의료">
+  <data key="d0">1</data>
+</node>
+<node id="대악">
+  <data key="d0">1</data>
+</node>
+<node id="명절">
+  <data key="d0">1</data>
+</node>
+<node id="설">
+  <data key="d0">7</data>
+</node>
+<node id="날">
+  <data key="d0">2</data>
+</node>
+<node id="기호">
+  <data key="d0">2</data>
+</node>
+<node id="우수">
+  <data key="d0">4</data>
+</node>
+<node id="인증">
+  <data key="d0">2</data>
+</node>
+<node id="특별">
+  <data key="d0">5</data>
+</node>
+<node id="한국">
+  <data key="d0">1</data>
+</node>
+<node id="식약청">
+  <data key="d0">2</data>
+</node>
+<node id="발암">
+  <data key="d0">1</data>
+</node>
+<node id="물질">
+  <data key="d0">2</data>
+</node>
+<node id="수산물">
+  <data key="d0">3</data>
+</node>
+<node id="기관">
+  <data key="d0">4</data>
+</node>
+<node id="국제">
+  <data key="d0">1</data>
+</node>
+<node id="조직">
+  <data key="d0">2</data>
+</node>
+<node id="개편">
+  <data key="d0">2</data>
+</node>
+<node id="홈">
+  <data key="d0">1</data>
+</node>
+<node id="쇼핑">
+  <data key="d0">1</data>
+</node>
+<node id="마트">
+  <data key="d0">1</data>
+</node>
+<node id="대형">
+  <data key="d0">1</data>
+</node>
+<node id="달걀">
+  <data key="d0">1</data>
+</node>
+<node id="부정">
+  <data key="d0">2</data>
+</node>
+<node id="가짜">
+  <data key="d0">1</data>
+</node>
+<node id="수오">
+  <data key="d0">1</data>
+</node>
+<node id="유전자">
+  <data key="d0">1</data>
+</node>
+<node id="변형">
+  <data key="d0">1</data>
+</node>
+<node id="지도">
+  <data key="d0">2</data>
+</node>
+<node id="의약품">
+  <data key="d0">2</data>
+</node>
+<node id="정부">
+  <data key="d0">2</data>
+</node>
+<node id="합동">
+  <data key="d0">1</data>
+</node>
+<node id="성수식품">
+  <data key="d0">1</data>
+</node>
+<node id="소비">
+  <data key="d0">1</data>
+</node>
+<node id="자원">
+  <data key="d0">1</data>
+</node>
+<node id="클러스터">
+  <data key="d0">1</data>
+</node>
+<node id="경찰">
+  <data key="d0">1</data>
+</node>
+<node id="조리">
+  <data key="d0">1</data>
+</node>
+<node id="추석">
+  <data key="d0">2</data>
+</node>
+<node id="선물">
+  <data key="d0">2</data>
+</node>
+<node id="농수산">
+  <data key="d0">1</data>
+</node>
+<node id="국가">
+  <data key="d0">1</data>
+</node>
+<node id="미래">
+  <data key="d0">1</data>
+</node>
+<node id="창조">
+  <data key="d0">1</data>
+</node>
+<node id="기업">
+  <data key="d0">1</data>
+</node>
+<node id="식생활">
+  <data key="d0">2</data>
+</node>
+<node id="방사능">
+  <data key="d0">4</data>
+</node>
+<node id="서울">
+  <data key="d0">1</data>
+</node>
+<node id="수출">
+  <data key="d0">1</data>
+</node>
+<node id="교육">
+  <data key="d0">3</data>
+</node>
+<node id="대전">
+  <data key="d0">4</data>
+</node>
+<node id="충남">
+  <data key="d0">3</data>
+</node>
+<node id="원산지">
+  <data key="d0">1</data>
+</node>
+<node id="표시">
+  <data key="d0">1</data>
+</node>
+<node id="시장">
+  <data key="d0">2</data>
+</node>
+<node id="오염">
+  <data key="d0">1</data>
+</node>
+<node id="음식">
+  <data key="d0">1</data>
+</node>
+<node id="문화">
+  <data key="d0">1</data>
+</node>
+<node id="교육청">
+  <data key="d0">2</data>
+</node>
+<node id="유해">
+  <data key="d0">1</data>
+</node>
+<node id="소비자">
+  <data key="d0">1</data>
+</node>
+<node id="대비">
+  <data key="d0">2</data>
+</node>
+<node id="일본">
+  <data key="d0">2</data>
+</node>
+<node id="전통">
+  <data key="d0">1</data>
+</node>
+<node id="업계">
+  <data key="d0">1</data>
+</node>
+<node id="정보">
+  <data key="d0">2</data>
+</node>
+<node id="대상">
+  <data key="d0">1</data>
+</node>
+<node id="대한민국">
+  <data key="d0">1</data>
+</node>
+<node id="충북">
+  <data key="d0">5</data>
+</node>
+<node id="검사">
+  <data key="d0">1</data>
+</node>
+<node id="오늘">
+  <data key="d0">3</data>
+</node>
+<node id="메디">
+  <data key="d0">1</data>
+</node>
+<node id="포스트">
+  <data key="d0">1</data>
+</node>
+<edge source="안전" target="식품">
+  <data key="d1">2028.0</data>
+</edge>
+<edge source="안전" target="관리">
+  <data key="d1">860.0</data>
+</edge>
+<edge source="안전" target="어린이">
+  <data key="d1">400.0</data>
+</edge>
+<edge source="안전" target="먹거리">
+  <data key="d1">371.0</data>
+</edge>
+<edge source="안전" target="식약처">
+  <data key="d1">308.0</data>
+</edge>
+<edge source="안전" target="학교">
+  <data key="d1">276.0</data>
+</edge>
+<edge source="안전" target="농협">
+  <data key="d1">260.0</data>
+</edge>
+<edge source="안전" target="국민">
+  <data key="d1">201.0</data>
+</edge>
+<edge source="안전" target="날">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="안전" target="점검">
+  <data key="d1">162.0</data>
+</edge>
+<edge source="안전" target="위생">
+  <data key="d1">153.0</data>
+</edge>
+<edge source="안전" target="주변">
+  <data key="d1">153.0</data>
+</edge>
+<edge source="안전" target="급식">
+  <data key="d1">150.0</data>
+</edge>
+<edge source="안전" target="의약품">
+  <data key="d1">140.0</data>
+</edge>
+<edge source="안전" target="인증">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="안전" target="특별">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="안전" target="건강">
+  <data key="d1">136.0</data>
+</edge>
+<edge source="안전" target="우수">
+  <data key="d1">135.0</data>
+</edge>
+<edge source="안전" target="기관">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="안전" target="식약청">
+  <data key="d1">125.0</data>
+</edge>
+<edge source="안전" target="식생활">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="안전" target="교육">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="안전" target="정보">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="안전" target="설">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="식품" target="불량">
+  <data key="d1">772.0</data>
+</edge>
+<edge source="식품" target="건강">
+  <data key="d1">658.0</data>
+</edge>
+<edge source="식품" target="관리">
+  <data key="d1">622.0</data>
+</edge>
+<edge source="식품" target="기능">
+  <data key="d1">432.0</data>
+</edge>
+<edge source="식품" target="어린이">
+  <data key="d1">410.0</data>
+</edge>
+<edge source="식품" target="식약처">
+  <data key="d1">390.0</data>
+</edge>
+<edge source="식품" target="위생">
+  <data key="d1">361.0</data>
+</edge>
+<edge source="식품" target="판매">
+  <data key="d1">346.0</data>
+</edge>
+<edge source="식품" target="업소">
+  <data key="d1">335.0</data>
+</edge>
+<edge source="식품" target="유통">
+  <data key="d1">295.0</data>
+</edge>
+<edge source="식품" target="농협">
+  <data key="d1">284.0</data>
+</edge>
+<edge source="식품" target="가공">
+  <data key="d1">250.0</data>
+</edge>
+<edge source="식품" target="학교">
+  <data key="d1">240.0</data>
+</edge>
+<edge source="식품" target="업체">
+  <data key="d1">222.0</data>
+</edge>
+<edge source="식품" target="산업">
+  <data key="d1">212.0</data>
+</edge>
+<edge source="식품" target="제조">
+  <data key="d1">196.0</data>
+</edge>
+<edge source="식품" target="수입">
+  <data key="d1">188.0</data>
+</edge>
+<edge source="식품" target="주변">
+  <data key="d1">185.0</data>
+</edge>
+<edge source="식품" target="날">
+  <data key="d1">180.0</data>
+</edge>
+<edge source="식품" target="기호">
+  <data key="d1">179.0</data>
+</edge>
+<edge source="식품" target="근절">
+  <data key="d1">175.0</data>
+</edge>
+<edge source="식품" target="인증">
+  <data key="d1">173.0</data>
+</edge>
+<edge source="식품" target="특별">
+  <data key="d1">172.0</data>
+</edge>
+<edge source="식품" target="한국">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="식품" target="점검">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="식품" target="식약청">
+  <data key="d1">167.0</data>
+</edge>
+<edge source="식품" target="국제">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="식품" target="설">
+  <data key="d1">153.0</data>
+</edge>
+<edge source="식품" target="우수">
+  <data key="d1">152.0</data>
+</edge>
+<edge source="식품" target="부정">
+  <data key="d1">146.0</data>
+</edge>
+<edge source="식품" target="지도">
+  <data key="d1">141.0</data>
+</edge>
+<edge source="식품" target="클러스터">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="식품" target="조리">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="식품" target="추석">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="식품" target="농수산">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="식품" target="국가">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="식품" target="기업">
+  <data key="d1">120.0</data>
+</edge>
+<edge source="식품" target="서울">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="식품" target="수출">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="식품" target="기관">
+  <data key="d1">114.0</data>
+</edge>
+<edge source="식품" target="시장">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="식품" target="소비자">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="식품" target="대비">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="식품" target="의약품">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="식품" target="대전">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="식품" target="업계">
+  <data key="d1">106.0</data>
+</edge>
+<edge source="식품" target="방사능">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="식품" target="센터">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="식품" target="충북">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="식품" target="검사">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="식품" target="국민">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="식품" target="정보">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="관리" target="어린이">
+  <data key="d1">393.0</data>
+</edge>
+<edge source="관리" target="급식">
+  <data key="d1">387.0</data>
+</edge>
+<edge source="관리" target="지원">
+  <data key="d1">307.0</data>
+</edge>
+<edge source="관리" target="센터">
+  <data key="d1">282.0</data>
+</edge>
+<edge source="관리" target="위생">
+  <data key="d1">206.0</data>
+</edge>
+<edge source="관리" target="우수">
+  <data key="d1">177.0</data>
+</edge>
+<edge source="관리" target="기관">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="관리" target="식약처">
+  <data key="d1">147.0</data>
+</edge>
+<edge source="학교" target="급식">
+  <data key="d1">799.0</data>
+</edge>
+<edge source="학교" target="주변">
+  <data key="d1">393.0</data>
+</edge>
+<edge source="학교" target="위생">
+  <data key="d1">178.0</data>
+</edge>
+<edge source="학교" target="식중독">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="학교" target="점검">
+  <data key="d1">139.0</data>
+</edge>
+<edge source="학교" target="합동">
+  <data key="d1">133.0</data>
+</edge>
+<edge source="학교" target="지원">
+  <data key="d1">127.0</data>
+</edge>
+<edge source="학교" target="예방">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="학교" target="교육청">
+  <data key="d1">105.0</data>
+</edge>
+<edge source="급식" target="지원">
+  <data key="d1">471.0</data>
+</edge>
+<edge source="급식" target="어린이">
+  <data key="d1">410.0</data>
+</edge>
+<edge source="급식" target="센터">
+  <data key="d1">370.0</data>
+</edge>
+<edge source="급식" target="위생">
+  <data key="d1">155.0</data>
+</edge>
+<edge source="급식" target="식중독">
+  <data key="d1">120.0</data>
+</edge>
+<edge source="급식" target="교육청">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="불량" target="근절">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="불량" target="부정">
+  <data key="d1">126.0</data>
+</edge>
+<edge source="건강" target="기능">
+  <data key="d1">448.0</data>
+</edge>
+<edge source="지원" target="센터">
+  <data key="d1">385.0</data>
+</edge>
+<edge source="지원" target="어린이">
+  <data key="d1">325.0</data>
+</edge>
+<edge source="지원" target="교육">
+  <data key="d1">117.0</data>
+</edge>
+<edge source="어린이" target="센터">
+  <data key="d1">300.0</data>
+</edge>
+<edge source="어린이" target="기호">
+  <data key="d1">154.0</data>
+</edge>
+<edge source="어린이" target="식생활">
+  <data key="d1">120.0</data>
+</edge>
+<edge source="어린이" target="판매">
+  <data key="d1">100.0</data>
+</edge>
+<edge source="식약처" target="위생">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="식중독" target="예방">
+  <data key="d1">387.0</data>
+</edge>
+<edge source="위생" target="점검">
+  <data key="d1">244.0</data>
+</edge>
+<edge source="위생" target="음식점">
+  <data key="d1">190.0</data>
+</edge>
+<edge source="위생" target="업소">
+  <data key="d1">164.0</data>
+</edge>
+<edge source="위생" target="특별">
+  <data key="d1">145.0</data>
+</edge>
+<edge source="위생" target="교육">
+  <data key="d1">115.0</data>
+</edge>
+<edge source="판매" target="업소">
+  <data key="d1">234.0</data>
+</edge>
+<edge source="계란" target="살충제">
+  <data key="d1">345.0</data>
+</edge>
+<edge source="살충제" target="달걀">
+  <data key="d1">149.0</data>
+</edge>
+<edge source="업소" target="지도">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="유통" target="기한">
+  <data key="d1">251.0</data>
+</edge>
+<edge source="농협" target="충북">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="임상" target="상">
+  <data key="d1">265.0</data>
+</edge>
+<edge source="임상" target="치료제">
+  <data key="d1">187.0</data>
+</edge>
+<edge source="상" target="치료제">
+  <data key="d1">131.0</data>
+</edge>
+<edge source="근절" target="사회악">
+  <data key="d1">258.0</data>
+</edge>
+<edge source="근절" target="대악">
+  <data key="d1">184.0</data>
+</edge>
+<edge source="근절" target="경찰">
+  <data key="d1">128.0</data>
+</edge>
+<edge source="푸드" target="로컬">
+  <data key="d1">250.0</data>
+</edge>
+<edge source="점검" target="특별">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="업체" target="제조">
+  <data key="d1">199.0</data>
+</edge>
+<edge source="수입" target="수산물">
+  <data key="d1">156.0</data>
+</edge>
+<edge source="기기" target="의료">
+  <data key="d1">185.0</data>
+</edge>
+<edge source="명절" target="설">
+  <data key="d1">181.0</data>
+</edge>
+<edge source="설" target="성수식품">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="설" target="선물">
+  <data key="d1">107.0</data>
+</edge>
+<edge source="설" target="대비">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="설" target="특별">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="우수" target="기관">
+  <data key="d1">142.0</data>
+</edge>
+<edge source="발암" target="물질">
+  <data key="d1">165.0</data>
+</edge>
+<edge source="물질" target="유해">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="수산물" target="방사능">
+  <data key="d1">118.0</data>
+</edge>
+<edge source="수산물" target="일본">
+  <data key="d1">110.0</data>
+</edge>
+<edge source="조직" target="개편">
+  <data key="d1">154.0</data>
+</edge>
+<edge source="조직" target="정부">
+  <data key="d1">139.0</data>
+</edge>
+<edge source="개편" target="정부">
+  <data key="d1">120.0</data>
+</edge>
+<edge source="홈" target="쇼핑">
+  <data key="d1">151.0</data>
+</edge>
+<edge source="마트" target="대형">
+  <data key="d1">149.0</data>
+</edge>
+<edge source="가짜" target="수오">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="유전자" target="변형">
+  <data key="d1">144.0</data>
+</edge>
+<edge source="소비" target="자원">
+  <data key="d1">132.0</data>
+</edge>
+<edge source="추석" target="선물">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="미래" target="창조">
+  <data key="d1">123.0</data>
+</edge>
+<edge source="방사능" target="오염">
+  <data key="d1">113.0</data>
+</edge>
+<edge source="방사능" target="일본">
+  <data key="d1">102.0</data>
+</edge>
+<edge source="대전" target="충남">
+  <data key="d1">116.0</data>
+</edge>
+<edge source="대전" target="충북">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="대전" target="오늘">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="충남" target="충북">
+  <data key="d1">103.0</data>
+</edge>
+<edge source="충남" target="오늘">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="원산지" target="표시">
+  <data key="d1">115.0</data>
+</edge>
+<edge source="시장" target="전통">
+  <data key="d1">108.0</data>
+</edge>
+<edge source="음식" target="문화">
+  <data key="d1">112.0</data>
+</edge>
+<edge source="대상" target="대한민국">
+  <data key="d1">104.0</data>
+</edge>
+<edge source="충북" target="오늘">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="메디" target="포스트">
+  <data key="d1">100.0</data>
+</edge>
+</graph></graphml>
